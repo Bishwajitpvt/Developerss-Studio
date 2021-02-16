@@ -1,0 +1,39 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: sans-serif;
+}
+
+body {
+     background: rgb(248, 248, 248);
+}
+
+.container {
+     width: 70%;
+     margin: 0 auto;
+     padding: 20px;
+}
+
+.heading {
+     color: rgb(10, 62, 207);
+     margin: 20px auto;
+     border-bottom: 4px solid rgb(10, 62, 207);
+     display: inline-block;
+}
+
+p {
+     color: rgb(37, 37, 37);
+}
+
+.content {
+     margin: 20px 0;
+}
+
+.heading__secondary {
+     color: rgb(37, 37, 37);
+}
+
+ul {
+     margin: 10px;
+}
